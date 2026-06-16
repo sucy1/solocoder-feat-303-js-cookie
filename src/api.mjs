@@ -293,3 +293,4 @@ function init(converter, defaultAttributes) {
 
 export default init(defaultConverter, { path: '/' })
 // R2 fix
+// R3 cleanup
